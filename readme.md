@@ -3,7 +3,6 @@
 **Given an integer num, return true if num is a palindrome, and false otherwise.**
 
 </br>
-</br>
 
 Example 1: </br>
 ```
@@ -13,7 +12,6 @@ Output: true
 Explanation: 121 reads as 121 from left to right and from right to left.
 
 </br>
-</br>
 
 Example 2: </br>
 ```
@@ -22,7 +20,6 @@ Output: false
 ```
 Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
 
-</br>
 </br>
 
 Example 3: </br>
@@ -39,9 +36,11 @@ Constraints: </br>
 $-2^{31} <= num <= 2^{31} - 1$
  
  </br>
- </br>
 
 **Follow up:** Could you solve it without converting the integer to a string?
+
+ </br>
+ </br>
 
 ## Solution
 
